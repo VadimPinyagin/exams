@@ -1,0 +1,178 @@
+	/*------------------------------------------------Первая страница наряда------------------------------------------------*/
+
+.work_permit_1{
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+	background-color:#fff;
+} /*Основная таблица, обертка.*/
+h1{
+	width:1000px;
+}
+h4{
+	margin-bottom: 0px;
+}
+#ots{
+	padding-left:18px;
+} /*Отступ в h4 наблюдающему.*/
+.fio{
+	vertical-align: top;
+	
+}
+#fio_bottom{
+	vertical-align:top;
+	text-align:center;
+}
+
+.lnpp{
+	width: 80%;
+	border: 0px;
+	margin:0 auto;
+} /*.Ленинградская атомная станция.*/
+
+#subdivision, #end{
+	text-align:right;
+	font-weight:bold;
+	vertical-align:bottom;	
+} /*Ячейка с надписью Подразделение/подрядчик___________.*/
+
+.otstup{
+	margin-top:10px;
+} /*Отступ между таблицами.*/
+
+.workers_1{
+	width:99%;
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+} /*Руководителю, производителю, наблюдающему.*/
+
+.workers_tr{
+	vertical-align: bottom;
+}
+
+.brigade_members{
+	text-align:left;
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+	background-color:#fff;
+	width:99%;
+	vertical-align:bottom;	
+} /*Члены бригады*/
+
+.instructed{
+	text-align:left;
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+	background-color:#fff;
+	width:99%;
+} /*Поручается*/
+
+#inst_tr{
+	font-size:10pt;
+	text-align:center;
+	vertical-align: top;
+	height: 18px;
+} /*Выравнивание по центу строки (содержание работы, место работы)*/
+
+.start_end{
+	width:99%;
+	border-collapse:collapse;
+	border:none;
+	margin:0 auto;
+}/*Начало и окончание*/
+
+.no_marker{
+	list-style-type: none;
+	}
+	
+ ul,ol {
+    padding: 0; /* Убираем поля */
+    margin-left: 20px; /* Отступ слева */
+   }
+
+   
+ #date_and_time_1{
+	position: relative;
+	left:140px;
+	/*border: 1px solid red;*/
+}
+
+#date_and_time_2{
+	position: relative;
+	left:300px;
+	/* border: 1px solid red; */
+	
+}
+
+.preparation{
+	width:99%;
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+}/*Подготовка рабочего места.*/
+
+.tr_height_18px{
+	height:18px;
+}
+
+.safety{
+	width:99%;
+	border:2px solid #C3D0D8;
+	border-collapse:collapse;
+	margin:0 auto;
+} /*Меры безопасности.*/
+
+	/*------------------------------------------------Вторая страница наряда------------------------------------------------*/
+
+.work_permit_2{
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+	background-color:#fff;
+	width:1000px;
+} /*Основная таблица, обертка.*/
+
+.siz{
+	width:99%;
+	border:none;
+	border-collapse:collapse;
+	margin:0 auto;
+	
+} /*Дополнительные СИЗ.*/
+
+.outfit_issued{
+	border-collapse:collapse;
+	border:none;
+	margin:0 auto;
+	background-color:#fff;
+	width:1007px;
+}
+
+.date_poz{
+	position: relative;
+	left:140px;
+	/* border: 1px solid red; */
+}
+#date_poz_2{
+	position: relative;
+	left:400px;
+}
+
+.staff_sig{
+	width:99%;
+	border:none;
+	border-collapse:collapse;
+	margin:0 auto;
+	text-align:left;
+	background-color:#fff;
+}
+.olop{
+	border-collapse:collapse;
+	border:2px solid #C3D0D8;
+	margin:0 auto;
+	background-color:#fff;
+	width:1007px;
+}
